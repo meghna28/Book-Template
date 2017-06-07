@@ -10,49 +10,69 @@
 	width: 100%;
 	margin: 0;
 }
-
-#c1
+#demo
 {
-  top:60px;
-  height:50%;
-  max-height: 150px;
-  width: 40%;
-  position:absolute;
-  left:50%;
+	padding-left: 45%;
+	padding-top: 3%;
+	font-size: 20px;
+	color:#ff0000;
+}
+#myCarousel1
+{
+ height:40%;
+ width: 40%;
+margin-top: 25px;
+ left:50%;
+}
+
+#myCarousel2
+{
+
+height:40%;
+width: 40%; 
+left:50%;
+ 
+}
+#myCarousel3
+{
+height:40%;
+width: 40%;
+left:50%;
+}
+#r2
+{
+padding-top: 20px;
+}
+#r3
+{
+	padding-top: 20px;
 }
 #c2
 {
-  height:50%;
-  max-height: 150px;
-  width: 40%;
-  top: 150px;
-  position:absolute;
-  left:50%;
-  top:250px;
+	padding-left: 5%;
 }
-#c3
+#n
 {
-  height:50%;
-  max-height: 150px;
-  width: 40%;
-  top:300px;
-  position:absolute;
-  left:50%;
-  top:450px;
+	padding-top: 15%;
+	width:60%;
 }
-
-#c4
+#r4
 {
-	position:absolute;
-	top:120px;
-	left:80px;
+	padding-top: 3%;
+	height: 10%;
+}
+#r5
+{
+	height: 90%;
+}
+#form1
+{
+	width:60%;
 }
 
-#c5
+#form2
 {
-	position:absolute;
-	top:10px;
-	left:50px;
+	width:60%;
 }
 .dropdown-menu
 {
